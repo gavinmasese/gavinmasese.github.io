@@ -84,7 +84,7 @@ const config = {
   },
   hotjar: {
     id: '', //  Please remove this and use your own id or keep it empty
-    snippetVersion: ,
+    snippetVersion: 6,
   },
   themeConfig: {
     defaultTheme: 'corporate',
