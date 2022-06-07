@@ -2,25 +2,25 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'poeticjustice1', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 2, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'GavinMasese',
+    twitter: 'Gavinmasese',
     facebook: '',
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    dev: '',
+    website: 'https://poeticjustice1.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'gavinmasese911@gmail.com',
   },
   skills: [
     'PHP',
@@ -40,51 +40,51 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
+      company: 'Professional Digital Systems limited',
+      position: 'Attachee',
+      from: 'may 2022',
       to: 'Present',
     },
     {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
     },
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      institution: 'Meru university of science and technology',
+      degree: 'Bachelor of Science in Computer science',
+      from: '2019',
+      to: 'Present',
     },
     {
-      institution: 'Cantonment College, Jessore',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
     },
     {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn',
-    limit: 3, // How many posts to display. Max is 10.
+    source: '', // medium | dev
+    username: '',
+    limit: , // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: '', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
-    snippetVersion: 6,
+    id: '', //  Please remove this and use your own id or keep it empty
+    snippetVersion: ,
   },
   themeConfig: {
     defaultTheme: 'corporate',
