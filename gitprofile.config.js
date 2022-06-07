@@ -33,7 +33,7 @@ const config = {
     {
       company: 'Professional Digital Systems limited',
       position: 'Attachee',
-      from: 'may 2022',
+      from: 'May 2022',
       to: 'Present',
     },
     {
@@ -47,7 +47,7 @@ const config = {
     {
       institution: 'Meru university of science and technology',
       degree: 'Bachelor of Science in Computer science',
-      from: '2019',
+      from: ' July 2019',
       to: 'Present',
     },
     {
@@ -67,7 +67,7 @@ const config = {
   blog: {
     source: 'medium', // medium | dev
     username: 'gavinmasese911',
-    limit: 6, // How many posts to display. Max is 10.
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -98,7 +98,6 @@ const config = {
       'corporate',
       'synthwave',
       'retro',
-      'cyberpunk',
       'valentine',
       'halloween',
       'garden',
