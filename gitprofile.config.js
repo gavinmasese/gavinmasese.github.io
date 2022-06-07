@@ -19,7 +19,7 @@ const config = {
     medium: 'gavinmasese911',
     dev: 'gavinmasese',
     website: 'https://gavinmasese.github.io',
-    phone: '',
+    phone: '+254741477507',
     email: 'gavinmasese911@gmail.com',
   },
   skills: [
