@@ -2,9 +2,9 @@
 
 const config = {
   github: {
-    username: 'poeticjustice1', // Your GitHub org/user name. (Required)
+    username: 'poeticjustice1', // Your GitHub user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 2, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
