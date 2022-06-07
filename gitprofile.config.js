@@ -16,8 +16,8 @@ const config = {
     facebook: '',
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
+    medium: 'gavinmasese911',
+    dev: 'gavinmasese',
     website: 'https://gavinmasese.github.io',
     phone: '',
     email: 'gavinmasese911@gmail.com',
@@ -65,8 +65,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: '', // medium | dev
-    username: '',
+    source: 'medium', // medium | dev
+    username: 'gavinmasese911',
     limit: 4, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
