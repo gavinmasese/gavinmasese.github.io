@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'poeticjustice1', // Your GitHub user name. (Required)
+    username: 'gavinmasese', // Your GitHub user name. (Required)
     sortBy: 'stars', // stars 
     limit: 4, // How many projects to display.
     exclude: {
@@ -18,7 +18,7 @@ const config = {
     behance: '',
     medium: '',
     dev: '',
-    website: 'https://poeticjustice1.github.io',
+    website: 'https://gavinmasese.github.io',
     phone: '',
     email: 'gavinmasese911@gmail.com',
   },
