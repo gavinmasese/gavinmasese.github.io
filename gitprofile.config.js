@@ -24,19 +24,10 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'Git',
-    'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
   ],
   experiences: [
     {
