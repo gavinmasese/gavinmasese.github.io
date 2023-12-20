@@ -34,13 +34,13 @@ const config = {
       company: 'Professional Digital Systems limited',
       position: 'Attachee',
       from: 'May 2022',
-      to: 'Present',
+      to: 'August 2022',
     },
     {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
+      company: 'Kenya Meteorological Department',
+      position: 'Attachee',
+      from: 'June 2023',
+      to: 'August 2023,
     },
   ],
   education: [
@@ -51,10 +51,10 @@ const config = {
       to: 'Present',
     },
     {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
+      institution: 'Kisi High School',
+      Grade : 'B plain',
+      from: '2015',
+      to: '2018',
     },
     {
       institution: '',
